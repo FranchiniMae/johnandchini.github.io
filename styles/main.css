@@ -1,0 +1,68 @@
+.centertext {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+body {
+	background-image: url('../images/2.jpeg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.welcome {
+	font-family: 'Cantata One', serif;
+	font-size: 4.5em;
+	color: white;
+	margin-top: 13%;
+	text-shadow: 0 0 3px #000000;
+}
+
+.tagline {
+	color: #b5b5b5;
+	font-family: 'Nixie One', cursive;
+	margin-top: 2%;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+/*************** NAVBAR ***************/
+
+ul {
+    list-style-type: none;
+    margin: 0 auto;	
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    width: 100%;
+}
+
+#nav { 
+	text-align: center;
+	z-index: 999999;
+}
+
+li {
+	margin: 0 auto;
+	display: inline-block;
+}
+
+li a {
+  display: block;
+  color: rgb(120, 123, 123);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+li a:hover {
+  background-color: #B5BDC1;
+}
+
+li a:visited {
+	background: #B5BDC1;
+}
