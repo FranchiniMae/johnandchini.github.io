@@ -19,7 +19,7 @@ body {
 }
 
 .welcome {
-	font-family: 'Cantata One', serif;
+	font-family: 'Satisfy', cursive;
 	font-size: 4.5em;
 	color: white;
 	margin-top: 13%;
@@ -28,7 +28,7 @@ body {
 
 .tagline {
 	color: #b5b5b5;
-	font-family: 'Nixie One', cursive;
+	font-family: 'Raleway', sans-serif;
 	margin-top: 2%;
 	font-size: 1.5em;
 	font-weight: bold;
